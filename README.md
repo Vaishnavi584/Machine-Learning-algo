@@ -11,6 +11,7 @@ In this repos you will find types of algorithm used for Machine learning using g
 
 
 
+
 lab1 : 
 Exploratory Data Analysis (EDA) in machine learning is a critical step that involves analyzing and summarizing the main characteristics of a dataset before applying any machine learning models. The primary goals of EDA include:
 
@@ -25,6 +26,8 @@ Assessing Data Quality: Checking for missing values, duplicates, and inconsisten
 Visualizations: Using plots and graphs (like histograms, scatter plots, and box plots) to visually interpret data distributions and relationships.
 
 Overall, EDA helps to inform the choice of models and preprocessing steps, leading to better machine learning outcomes. 
+
+
 
 
 LAB2: 
@@ -53,6 +56,8 @@ Requires independence of observations and no multicollinearity among predictors.
 Evaluation Metrics: Common metrics for assessing performance include accuracy, precision, recall, F1-score, and the area under the ROC curve (AUC).
 
 
+
+
 LAB4:
 Support Vector Machines (SVM) is a powerful supervised machine learning algorithm used primarily for classification tasks, but it can also be applied to regression. Here’s a brief overview:
 
@@ -66,6 +71,7 @@ Kernel Trick: SVM can handle non-linear classification using kernel functions (l
 Regularization: It includes a regularization parameter that controls the trade-off between maximizing the margin and minimizing classification errors.
 
 Applications: SVM is effective in various fields, including image recognition, text classification, and bioinformatics, due to its robustness in high-dimensional spaces.
+
 
 
 
